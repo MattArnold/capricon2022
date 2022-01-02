@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+  <title>Virtual Capricon 2022 {{ page.title }}</title>
+  <meta name="description"
+    content="Capricon 2022 online. {{ page.title }}." />
+  <meta property="og:url"
+    content="{{ page.url | replace:'index.html','' | prepend: absolute_url }}" />
+  <meta property="og:title" content="{{ page.title | append: ' - ' }}Virtual Capricon 2022" />
+  <meta property="og:description"
+    content="Capricon 2022 online." />
+  <meta property="og:image" content="{{ absolute_url }}/assets/images/Cap41art.jpg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="assets/css/main.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico"  | absolute_url }}" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,500;1,700&display=swap" rel="stylesheet">
+</head>
+
+<body class="pages">
+  <main class="main">
+    <header id="top">
+      <div class="logo-link">
+        <a href="/" alt="Info" title="Info" class="info-link">Capricon 2022</a>
+      </div>
+      <div class="header-content">
+        <h1>Virtual Access Portal</h1>
+        <h2>Capricon 41, February 3 - 6, 2022</h2>
+        <nav>
+          <ul class="rooms-menu">
+          {% for room in site.data.menus %}
+            {% if room.title == page.title %}
+            <li class="this-page room">
+            {% else %}
+            <li class="room">
+            {% endif %}
+              <a title="{{room.title | slugify}}"
+                href="{{ room.url | prepend: site.baseurl | prepend: site.url }}"
+              >
+              {{ room.title }}
+              </a>
+            </li>
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section id="sign-in-first">
+      {% include agreement.html %}
+    </section>
+    {% if page.public %}
+    <section class="public-container {{ page_size}}">
+    {% elsif page.category == "stream" or page.category == "gallery" %}
+    <section class="accesscontrol-container room-container" style="display: none">
+    {% else %}
+    <section class="accesscontrol-container" style="display: none">
+    {% endif %}
+      {{ content }}
+    </section>
+    {% include footer.html %}
+  </main>
+<script>
+  const agreement = localStorage.getItem('Capricon_2022_agreement');
+  const agreement_container = document.getElementsByClassName('agreement-container')[0];
+  if (agreement) {
+    const sign_in_first = document.getElementById('sign-in-first');
+    if (sign_in_first) {
+      sign_in_first.style.display = "none";
+    }
+    const accesscontainer = document.getElementsByClassName("accesscontrol-container")[0];
+    if (accesscontainer) {
+      accesscontainer.style.display = "block";
+    }
+    const accesscontrolnav = document.getElementsByClassName('rooms-menu')[0];
+    if (accesscontrolnav) {
+      accesscontrolnav.style.display = "flex";
+    }
+  }
+  if (window.document.documentMode) {
+    var main = document.getElementsByClassName('main')[0];
+    var iesupportmsg = document.createElement('div');
+    iesupportmsg.innerText = "We're sorry, but Internet Explorer is not supported."
+    main.appendChild(iesupportmsg);
+  }
+
+  const gallery_images = document.getElementsByClassName("gallery-image");
+
+  var makeLarge = function(e) {
+    const lightbox_images = document.getElementsByClassName("lightbox-image");
+    Array.from(lightbox_images).forEach((img) => {
+      img.classList.remove("lightbox-image");
+    });
+    e.target.classList.add("lightbox-image");
+  };
+
+  Array.from(gallery_images).forEach((img) => {
+    img.addEventListener('click', makeLarge, false);
+  });
+</script>
+</body>
+</html>

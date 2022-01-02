@@ -1,0 +1,69 @@
+---
+label: Artist Data
+hide_body: true
+fields:
+- type: field_group_list
+  name: Artists
+  label: Artists
+  fields:
+  - type: text
+    name: name
+    label: name
+  - name: single_image
+    type: file
+    config:
+      maxSize: 64
+    label: single_image
+    description: The image to the left of the artist info.
+  - name: website1
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website1
+  - name: website2
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website2
+  - type: textarea
+    name: description
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: description
+  - name: image_filenames
+    type: image_gallery
+    config: {}
+    label: image_filenames
+    description: A gallery of multiple images
+  - name: website3
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website3
+  - name: website4
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: website4
+pages:
+- _data/artists.yaml
