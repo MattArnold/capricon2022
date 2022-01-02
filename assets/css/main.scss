@@ -1,5 +1,7 @@
 ---
 ---
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/413551");
 
 $dark: #000000;
 $medium-dark: #E1A966;
@@ -31,13 +33,10 @@ $side_stripe: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBo
 $center_stripe: '<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.6 792"><path fill="rgb(250, 250, 250)" d="M10.3 0c-13.1 110.5-19 235.7 15.9 396 29.7 136.7 1 254.3-15.9 396h147.9c12.9-89.9 17.3-203.1-17.9-396-34.7-189.8-.1-270.1 17.9-396H10.3z"/></svg>';
 
 $main-padding: 0.25rem;
-
-/* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/413551");
   
 @font-face {
   font-family: "ResoluteNF";
-  src: url('/assets/webfonts/ResoluteNF/font.woff2') format('woff2'), url('/assets/webfonts/ResoluteNF/font.woff') format('woff');
+  src: url('{{ site.baseurl }}/assets/webfonts/ResoluteNF/font.woff2') format('woff2'), url('{{ site.baseurl }}/assets/webfonts/ResoluteNF/font.woff') format('woff');
 }
 
 body {
@@ -46,7 +45,7 @@ body {
   margin: 0;
   background-color: $very-very-light;
   background-size: 40vw;
-  background-image: url("/assets/images/Cap41_WebHeader_justbackground.png");
+  background-image: url("{{ site.baseurl }}/assets/images/Cap41_WebHeader_justbackground.png");
 }
 
 h1 {
@@ -483,7 +482,7 @@ footer {
 .hamburger-menu-image {
   height: 2rem;
   width: 2rem;
-  background-image: url("/assets/images/hamburger-menu-image.png");
+  background-image: url("{{ site.baseurl }}/assets/images/hamburger-menu-image.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
