@@ -14,12 +14,6 @@ sections:
 - type: document
   path: _data/presenters.yaml
   label: Program Participant Listings
-- type: document
-  path: _data/dealers.yaml
-  label: Dealer Listings
-- type: document
-  path: _data/artists.yaml
-  label: Artist Listings
 - type: jekyll-pages
   label: Pages
   create: all

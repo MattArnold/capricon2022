@@ -65,5 +65,3 @@ fields:
       schema:
         format: markdown
     label: website4
-pages:
-- _data/artists.yaml
