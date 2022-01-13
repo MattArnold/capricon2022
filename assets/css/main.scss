@@ -36,7 +36,7 @@ $main-padding: 0.25rem;
   
 @font-face {
   font-family: "ResoluteNF";
-  src: url('{{ site.baseurl }}/assets/webfonts/ResoluteNF/font.woff2') format('woff2'), url('{{ site.baseurl }}/assets/webfonts/ResoluteNF/font.woff') format('woff');
+  src: url('{{ site.url }}/assets/webfonts/ResoluteNF/font.woff2') format('woff2'), url('{{ site.url }}/assets/webfonts/ResoluteNF/font.woff') format('woff');
 }
 
 body {
@@ -45,7 +45,7 @@ body {
   margin: 0;
   background-color: $very-very-light;
   background-size: 40vw;
-  background-image: url("{{ site.baseurl }}/assets/images/Cap41_WebHeader_justbackground.png");
+  background-image: url("{{ site.url }}/assets/images/Cap41_WebHeader_justbackground.png");
 }
 
 h1 {
