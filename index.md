@@ -24,7 +24,7 @@ This website is only half of the convention. To experience the entire thing, you
 ### Other Useful Information
 
 * The [Virtual Capricon FAQ](https://docs.google.com/document/d/1oBzw6dBxYuVC3bSnJcI3j-09k1EUgxTsghdBc9hviV4/edit?usp=sharing) will be updated throughout the convention with your frequently asked questions
-* Check out our [Discord Guide for Attendees](https://docs.google.com/document/d/1whzM_TaA3LO4XLWDhV0oqrnyEa38GAXvaLsecep1yR8/edit?usp=sharing) for more on how to use Discord and the Capricon 41 Discord server
+* Check out our [Discord Guide for Attendees](https://docs.google.com/document/d/1whzM_TaA3LO4XLWDhV0oqrnyEa38GAXvaLsecep1yR8/edit?usp=sharing) for more on how to use Discord and the Capricon 42 Discord server
 * Need help? The best way to do that will be to ask at the #info-desk or #discord-help-desk in the Discord. But if you can't do that, you can email infodesk@capricon.org and someone will get back to you.
 * Need to report a Code of Conduct violation? Visit #operations in Discord, or email operations@capricon.org
 
@@ -32,7 +32,7 @@ This website is only half of the convention. To experience the entire thing, you
 
 ### Goat Droppings
 
-We have compiled the [Goat Droppings: Capricon 41 Collector's Edition](/assets/images/goat-droppings-goh-interview-edition-cap-41.pdf) for you! It contains all the Interviews with the Guests of Honor, Information on the Phandemonium Bookclub which meets virtually throughout the year, the Guest of Honor Spotify playlist information, and of course, all the Out-of-CONtext quotes. Download this Capricon 41 souvenir today!
+We have compiled the [Goat Droppings: Capricon 42 Collector's Edition](/assets/images/goat-droppings-goh-interview-edition-cap-41.pdf) for you! It contains all the Interviews with the Guests of Honor, Information on the Phandemonium Bookclub which meets virtually throughout the year, the Guest of Honor Spotify playlist information, and of course, all the Out-of-CONtext quotes. Download this Capricon 42 souvenir today!
 
 The Spotify Playlist can be found [here](https://open.spotify.com/playlist/01loUHWaOvW8mnzDyB33m1?si=Zc0i8N6jR16BEe9wCj0jng). The full listing of tracks is in the Goat Droppings PDF.
 
