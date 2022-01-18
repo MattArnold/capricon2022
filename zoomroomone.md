@@ -15,8 +15,7 @@ src="https://player.twitch.tv/?channel=capricon2021a&parent=virtual.capricon.org
 
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 <script>
-const even = "788596276790165565";
-const odd = "788596276790165565";
+const channel = "929769192243232838";
 </script>
 {% include room_scripts.html %}
 
