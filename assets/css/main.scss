@@ -201,6 +201,10 @@ header {
 }
 
 .banner {
+  background-color: rgba(0,0,0,0.5);
+  margin: -0.25rem;
+  padding: 0.25rem;
+
   h2 {
     color: $very-light;
     text-align: center;
@@ -208,6 +212,7 @@ header {
     font-family: unset;
     font-size: medium;
   }
+
   a {
     color: $very-light;
   }
