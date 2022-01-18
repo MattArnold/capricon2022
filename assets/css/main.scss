@@ -200,6 +200,17 @@ header {
   }
 }
 
+.banner {
+  h2 {
+    color: $very-light;
+    text-align: center;
+    margin: 0.25rem;
+  }
+  a {
+    color: $very-light;
+  }
+}
+
 .public-container, .accesscontrol-container {
   padding: 0.1rem 1rem;
   min-height: calc(100vh - 12rem);
