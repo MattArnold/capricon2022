@@ -11,7 +11,7 @@ public: false
 
 Thank you for joining us for the virtual portion of Capricon 42! We're happy to have you here!
 
-This website is only half of the virtual convention. To experience the entire thing, you need to [join our Discord server](https://discord.gg/Hra39Zkrhf). If you have not used Discord before, you will have best results if you visit discord.com and set up an account BEFORE attempting to join the Server. We also recommend downloading the app rather than using the website version. Note that you must have logged into Discord and accepted the Code of Conduct in order to participate in panel chat via the website.
+This website is only half of the virtual convention. To experience the entire thing, you need to [join our Discord server](https://discord.gg/N9NZsCXKpt). If you have not used Discord before, you will have best results if you visit [discord.com](https://discord.com/download) and set up an account BEFORE attempting to join the Server. We also recommend downloading the app rather than using the website version. Note that you must have logged into Discord and accepted the Code of Conduct in order to participate in panel chat via the website.
 
 ### How to Use this Website
 
