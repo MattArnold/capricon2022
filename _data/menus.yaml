@@ -1,6 +1,8 @@
 ---
 - title: Info
   url: /
+- title: Erie
+  url: /erie
 - title: Schedule
   url: /schedule
 - title: Zoom Room One
@@ -9,8 +11,6 @@
   url: /zoomroomtwo
 - title: Zoom Room Three
   url: /zoomroomthree
-- title: Erie
-  url: /erie
 - title: Cafe
   url: /cafe
 - title: Dealers Room
