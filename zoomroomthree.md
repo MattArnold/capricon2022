@@ -7,17 +7,30 @@ public: false
 ---
 # Zoom Room 3
 
-Welcome to Zoom Room 3! Items in this room are more interactive, so are held in a Zoom meeting that you can join. If the title is a link, just click on it at the time of the program item.
+Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so are held in a Zoom meeting that you can join directly. To join, just click on the session title link.
 
-**Kaffeeklatsches**
+### Friday
 
-* These are limited to a 10 people and are first-come, first-served. If you end up sitting in the waiting room for a while, it means that too many people got there before you did!
+2:00 PM	Sketchbook Tour: Wendy Van Camp
+
+5:00 PM	Sketchbook Tour: Alessandra Kelley
+
+7:00 PM	Plotting Backwards
+
+8:00 PM	Brandon O'Brien's Magical Literary Open Mic Night! (2 hrs)
 
 ### Saturday
 
-9:00a CST	- Session Title TBD
+12:00 PM Sketchbook Tour: Anne E.G. Nydam
 
+1:00 PM Addams "Family Issues"
 
-### Sunday
+2:00 PM Introduction to Harmony and Arranging
 
-10:00a CST - Session Title TBD
+3:00 PM Deconstructing Story
+
+4:00 PM Preview Screening: Uncanny Encounters, LIVE! (90 mins)
+
+8:00 PM Speculative Poetry Open-Mic
+
+9:00 PM Concert: Cheshire Moon
