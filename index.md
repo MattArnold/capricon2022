@@ -23,8 +23,8 @@ This website is only half of the virtual convention. To experience the entire th
 
 ### Other Useful Information
 
-* The [Virtual Capricon FAQ](https://docs.google.com/document/d/1oBzw6dBxYuVC3bSnJcI3j-09k1EUgxTsghdBc9hviV4/edit?usp=sharing) will be updated throughout the convention with your frequently asked questions
-* Check out our [Discord Guide for Attendees](https://docs.google.com/document/d/1whzM_TaA3LO4XLWDhV0oqrnyEa38GAXvaLsecep1yR8/edit?usp=sharing) for more on how to use Discord and the Capricon 42 Discord server
+* The [Virtual Capricon FAQ](https://docs.google.com/document/d/1PR2_VoChqMMSD8zwIJhMLHJGLRjJVTLpD2f6mjCaAe4/edit?usp=sharing) will be updated throughout the convention with your frequently asked questions
+* Check out our [Discord Guide for Attendees](https://docs.google.com/document/d/1ZZvM7fv2YsZSq7cTYdNNg4WZ8VGNOsI0YeqXQ_bB-aE/edit) for a navigation guide to the Capricon 42 Discord server
 * Need help? The best way to do that will be to ask at the #help-and-info-desk channel in the Discord. But if you can't do that, you can email infodesk@capricon.org and someone will get back to you.
 * Need to report a Code of Conduct violation? Visit #help-and-info-desk in Discord, or email operations@capricon.org
 
