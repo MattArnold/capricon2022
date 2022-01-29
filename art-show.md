@@ -5,30 +5,67 @@ category: gallery
 public: false
 
 ---
-{% include jump_to.html content=site.data.artists %}
-<p class="jump">
-<a href="#art-show-chat">Art Show Discord Chat</a>
-</p>
-
 # Art Show
 
-Welcome to the Capricon Virtual Art Show!
+Please check out the artists who are displaying work in our art show!
 
-We have a variety of art-related programming during the convention - [click here](https://guide.capricon.org/#prog/tag:Track%3AArt) to see a list of what's available.  To participate in our live Discord channel, click on the button above that says "Art Show Discord Chat" or scroll to the bottom of this page.
+#### Sarah Clemens
 
-In the meantime, feel free to browse the artists participating in our virtual Art Show this year - you can click on any image to expand it.
+2D, oils, acrylics and digital  
+[http://www.clemensart.com/prints.htm](http://www.clemensart.com/prints.htm "http://www.clemensart.com/prints.htm")
 
-We encourage you to visit each artist's page(s) and buy art directly from them - and to vote for the Best in (Virtual) Show Award by [clicking here](https://forms.gle/9PVgvJWxxDhAuGBPA) and filling out the form.
+#### SamHain Press
 
-{% for artist in site.data.artists %}{% include artist_listing.html %}{% endfor %}
-<iframe
-frameborder="0"
-id="art-show-chat"
-class="convention-chat"
-width="100%"
-height="600px"
-src = "https://titanembeds.com/embed/788593711851896852?defaultchannel=802221524466794536"
+Multimedia (Jewelry & Illustration)  
+[https://www.samhainpress.com/shop](https://www.samhainpress.com/shop "https://www.samhainpress.com/shop")
 
-> 
+#### Peri Charlifu - Aegean Goods
 
-</iframe>
+Speculative art pottery  
+[http://aegeangoods.com/](http://aegeangoods.com/ "http://aegeangoods.com/")
+
+#### UniverseOfNya
+
+digital art  
+[https://ko-fi.com/universeofnya](https://ko-fi.com/universeofnya "https://ko-fi.com/universeofnya")
+
+#### Knitmeapony Enterprises
+
+reclaimed toy robots and polymer clay jewelry  
+[https://www.instagram.com/knitmeaponyl/](https://www.instagram.com/knitmeaponyl/ "https://www.instagram.com/knitmeaponyl/")  
+[https://twitter.com/knitmeapony](https://twitter.com/knitmeapony "https://twitter.com/knitmeapony")
+
+#### B. Stark Art
+
+Hand wrapped wire metal sculpture with upcycled items[  
+https://www.etsy.com/shop/starkimages/](https://www.etsy.com/shop/starkimages/ "https://www.etsy.com/shop/starkimages/")
+
+#### Cosmic Arts by Jeliza
+
+Space-inspired painted glass and wood  
+[http://shop.jeliza.net/](http://shop.jeliza.net/ "http://shop.jeliza.net/")
+
+#### The Dragon Lady
+
+Sculpey  
+[https://www.facebook.com/The-Dragon-Lady-484118554980404](https://www.facebook.com/The-Dragon-Lady-484118554980404 "https://www.facebook.com/The-Dragon-Lady-484118554980404")
+
+#### Dex Greenbright	
+
+illustration, graphic design, and abstract paintings  
+[https://dexgreenbright.com/link-landing-page](https://dexgreenbright.com/link-landing-page "https://dexgreenbright.com/link-landing-page")
+
+#### The Pugling Hoard
+
+Beaded Jewelry and accessories with a steamy twist  
+[https://www.thepuglinghoard.com/](https://www.thepuglinghoard.com/ "https://www.thepuglinghoard.com/")
+
+####  Art of Raymond VanTilburg
+
+Sci-fi , fantasy  
+[https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg "https://www.etsy.com/shop/ArtofRayVanTilburg")
+
+#### Taia Hartman
+
+Prints (Block, Etching) & Mixed Media  
+[http://www.taiahartman.com/](http://www.taiahartman.com/ "http://www.taiahartman.com/")
