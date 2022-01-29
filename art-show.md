@@ -7,7 +7,7 @@ public: false
 ---
 # Art Show
 
-Please check out the artists who are displaying work in our art show!
+Please check out the artists who are displaying work in our art show! Many have works for sale on their websites, we hope you'll find something you'd love to have in your home!
 
 #### Sarah Clemens
 
