@@ -1,7 +1,7 @@
 ---
 title: Erie
 layout: default
-category: info
+category: stream
 public: false
 
 ---
