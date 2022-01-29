@@ -17,7 +17,7 @@ Prefer a grid? View that [here](https://zambia.capricon.org/ReportPublicGrid.php
 
 TBD
 
-### Text-Based Schedule
+## Text-Based Schedule
 
 This schedule is just for the virtual accessible items. 
 
