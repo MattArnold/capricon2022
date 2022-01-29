@@ -15,7 +15,7 @@ Happy Reading and Listening!
 
 **COUPONS AND SALES ON OTHER SITES FOR CAPRICON MEMBERS!**
 
-TBD
+Gozer Games is offering 10% of Board Game Accessories with coupon code "Capricon" at [https://gozer-games.square.site/](https://gozer-games.square.site/ "https://gozer-games.square.site/")
 
 **DOWNLOAD HERE!**
 
