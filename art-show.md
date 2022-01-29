@@ -60,7 +60,7 @@ illustration, graphic design, and abstract paintings
 Beaded Jewelry and accessories with a steamy twist  
 [https://www.thepuglinghoard.com/](https://www.thepuglinghoard.com/ "https://www.thepuglinghoard.com/")
 
-####  Art of Raymond VanTilburg
+#### Art of Raymond VanTilburg
 
 Sci-fi , fantasy  
 [https://www.etsy.com/shop/ArtofRayVanTilburg](https://www.etsy.com/shop/ArtofRayVanTilburg "https://www.etsy.com/shop/ArtofRayVanTilburg")
