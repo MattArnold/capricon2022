@@ -1,7 +1,7 @@
 ---
 title: Art Show
 layout: default
-category: gallery
+category: info
 public: false
 
 ---
