@@ -17,9 +17,9 @@ Prefer a grid? View that [here](https://zambia.capricon.org/ReportPublicGrid.php
 
 TBD
 
-### Text-Based Schedule (Virtual-Accessible Items Only)
+### Text-Based Schedule
 
-(all times CST)
+This schedule is just for the virtual accessible items. 
 
 #### Friday
 
