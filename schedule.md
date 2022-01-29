@@ -13,20 +13,20 @@ Please see <a href="https://guide.capricon.org/" target="_blank">our schedule of
 
 Prefer a grid? View that [here](https://zambia.capricon.org/ReportPublicGrid.php). Hover over the panel titles for a description and panelists.
 
-## Schedule Changes
+### Schedule Changes
 
 TBD
 
-## Text-Based Schedule (Virtual-Accessible Items Only)
+### Text-Based Schedule (Virtual-Accessible Items Only)
 
 (all times CST)
 
-### Friday
+#### Friday
 
 TBD
 
-### Saturday
+#### Saturday
 
 TBD
 
-### Sunday
+#### Sunday
