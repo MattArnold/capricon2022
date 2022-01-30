@@ -8,7 +8,7 @@ public: false
 # Zoom Room One / Colorado
 
 <iframe
-src="https://player.twitch.tv/?channel=capricon2021a&parent=virtual.capricon.org" height="300" width="500" frameborder="0" scrolling="no" allowfullscreen="true" class="convention-video"> </iframe>
+src="https://vimeo.com/event/1781975/embed" height="300" width="500" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" scrolling="no" allowfullscreen="true" class="convention-video"></iframe>
 
 <iframe frameborder="0" class="convention-chat">
 </iframe>
