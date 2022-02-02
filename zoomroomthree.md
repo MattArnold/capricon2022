@@ -13,6 +13,8 @@ Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so ar
 
 2:00 PM	[Sketchbook Tour: Wendy Van Camp](https://us02web.zoom.us/j/86093670126?pwd=cFRORjB0MWR0S1ZWYTJTc0VGbklaQT09)
 
+3:00 PM   [Stitch'n'Bitch](https://us02web.zoom.us/j/89052574980?pwd=bEZGVlJIbHZPU0E4MEpiNm1ZNGNyZz09)
+
 5:00 PM	[Sketchbook Tour: Alessandra Kelley](https://us02web.zoom.us/j/89440809735?pwd=WjI4ZXI5dlMzTUxxdlhHeHlBVVdCUT09)
 
 7:00 PM	[Plotting Backwards](https://us02web.zoom.us/j/89325019855?pwd=U0dqUS9jeTA4VHJZazV0MjlVQ3IvZz09)
@@ -21,9 +23,11 @@ Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so ar
 
 ### Saturday
 
+11:00 AM [Crafting with Old T-Shirts](https://us02web.zoom.us/j/87317473414?pwd=SFpxNkZTUW1ZSVJ5Wi9ZUmJSUGpZUT09)
+
 12:00 PM [Sketchbook Tour: Anne E.G. Nydam](https://us02web.zoom.us/j/84027818231?pwd=c2pQaG1icUh6NzhLMEtDbzJMc0dBQT09)
 
-1:00 PM [Addams "Family Issues"](https://us02web.zoom.us/j/83499341115?pwd=dVJHOFVOTmpOSEVlYzdyZlh5bHJ3dz09)
+1:00 PM  [Addams "Family Issues"](https://us02web.zoom.us/j/83499341115?pwd=dVJHOFVOTmpOSEVlYzdyZlh5bHJ3dz09)
 
 2:00 PM [Introduction to Harmony and Arranging](https://us02web.zoom.us/j/86001133890?pwd=WEYxQ0Y1RzFJWFFmRUN4c3RudXlxQT09)
 
