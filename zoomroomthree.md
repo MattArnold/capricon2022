@@ -23,6 +23,8 @@ Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so ar
 
 ### Saturday
 
+10:00 AM [Folklore 101](https://us02web.zoom.us/j/86092072849?pwd=Zm1CeU5yRyt6dTErZmNXUGpSVVcvdz09)
+
 11:00 AM [Crafting with Old T-Shirts](https://us02web.zoom.us/j/87317473414?pwd=SFpxNkZTUW1ZSVJ5Wi9ZUmJSUGpZUT09)
 
 12:00 PM [Sketchbook Tour: Anne E.G. Nydam](https://us02web.zoom.us/j/87292319985?pwd=OW1SenRvdWdjNjlVVzZRNGhPNGpuZz09)
