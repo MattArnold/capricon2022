@@ -50,7 +50,7 @@ Space-inspired painted glass and wood
 Sculpey  
 [https://www.facebook.com/The-Dragon-Lady-484118554980404](https://www.facebook.com/The-Dragon-Lady-484118554980404 "https://www.facebook.com/The-Dragon-Lady-484118554980404")
 
-#### Dex Greenbright	
+#### Dex Greenbright
 
 illustration, graphic design, and abstract paintings  
 [https://dexgreenbright.com/link-landing-page](https://dexgreenbright.com/link-landing-page "https://dexgreenbright.com/link-landing-page")
@@ -69,3 +69,38 @@ Sci-fi , fantasy
 
 Prints (Block, Etching) & Mixed Media  
 [http://www.taiahartman.com/](http://www.taiahartman.com/ "http://www.taiahartman.com/")
+
+#### That Nerd Girl Studio
+
+Sewing  
+[https://www.etsy.com/shop/thatnerdgirlstudio](https://www.etsy.com/shop/thatnerdgirlstudio "https://www.etsy.com/shop/thatnerdgirlstudio")
+
+#### Sojourn Studio / teutelquessir
+
+Fantasy & Science Fiction / Digital  
+[https://sojournstudio.com](https://sojournstudio.com "https://sojournstudio.com")
+
+#### Lucy Synk Fantasy Art
+
+Fantasy/Acrylic  
+[http://lucysynkfantasyart.com/](http://lucysynkfantasyart.com/ "http://lucysynkfantasyart.com/")
+
+#### Unicoherent Art	
+
+embroidered circuitboards, bookfolding, color-shift painting, thermochromic dice, origami, fractal art, celtic art, aromatherapy jewelry, commissions  
+[https://www.unicoherent.com/](https://www.unicoherent.com/ "https://www.unicoherent.com/")
+
+#### T. M. Originals	
+
+Mixed Media  
+[https://www.tmoriginalsart.com/shop/](https://www.tmoriginalsart.com/shop/ "https://www.tmoriginalsart.com/shop/")
+
+#### Geek Calligraphy	
+
+Science fiction, fantasy, and generally geeky calligraphy  
+[https://GeekCalligraphy.com](https://GeekCalligraphy.com "https://GeekCalligraphy.com")
+
+#### Abranda Icle Art
+
+Fantasy  
+[https://www.abrandaicle.com/](https://www.abrandaicle.com/ "https://www.abrandaicle.com/")
