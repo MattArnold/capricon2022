@@ -19,6 +19,7 @@ Download **Patrick O'Connor**'s [Complete Strangers: A Book of the HaChii Convoc
 
 **Tammy's Tastings** is offering $5 off any $19 Cocktail Class with coupon code "capricon" at [https://www.tammystastings.com/](https://www.tammystastings.com/ "https://www.tammystastings.com/").
 
-**DOWNLOAD HERE!**
+**  
+DOWNLOAD HERE!**
 
 (nothing for this section yet)
