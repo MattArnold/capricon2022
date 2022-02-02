@@ -29,7 +29,3 @@ If you're looking for information on the in-person part of the convention taking
 * Check out our [Discord Guide for Attendees](https://docs.google.com/document/d/1ZZvM7fv2YsZSq7cTYdNNg4WZ8VGNOsI0YeqXQ_bB-aE/edit) for a navigation guide to the Capricon 42 Discord server
 * Need help? The best way to do that will be to ask at the #help-and-info-desk channel in the Discord. But if you can't do that, you can email infodesk@capricon.org and someone will get back to you.
 * Need to report a Code of Conduct violation? Visit #help-and-info-desk in Discord, or email operations@capricon.org
-
-### Where are the Parties?!
-
-The link to the Party Zoom will change every day. Check the #parties-hallway channel on Discord or check back here for the new link when it is posted.
