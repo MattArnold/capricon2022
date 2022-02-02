@@ -1,7 +1,7 @@
 ---
 title: Dealers Room
 layout: default
-category: gallery
+category: info
 public: false
 
 ---
