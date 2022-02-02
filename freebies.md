@@ -19,4 +19,4 @@ Happy Reading and Listening!
 
 **DOWNLOAD HERE!**
 
-TBD
+[Complete Strangers: A Book of the HaChii Convocation (HaChii Convergence)](https://www.amazon.com/dp/B08QJSNKWN) (will be free during convention weekend, but not quite yet)
