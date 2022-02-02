@@ -15,7 +15,7 @@ Would you like to contribute something to the Freebie Table? Please inquire at #
 
 **Gozer Games** is offering 10% of Board Game Accessories with coupon code "Capricon" at [https://gozer-games.square.site/](https://gozer-games.square.site/ "https://gozer-games.square.site/")
 
-[Complete Strangers: A Book of the HaChii Convocation (HaChii Convergence)](https://www.amazon.com/dp/B08QJSNKWN) (will be free during convention weekend, but not quite yet)
+[Complete Strangers: A Book of the HaChii Convocation (HaChii Convergence)](https://www.amazon.com/dp/B08QJSNKWN) (Kindle edition will be free beginning on Feb 3)
 
 **DOWNLOAD HERE!**
 
