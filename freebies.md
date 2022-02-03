@@ -17,8 +17,8 @@ Would you like to contribute something to the Freebie Table? Please inquire at #
 
 Download **Patrick O'Connor**'s [Complete Strangers: A Book of the HaChii Convocation (HaChii Convergence)](https://www.amazon.com/dp/B08QJSNKWN) for free (beginning 2/3)
 
-**Tammy's Tastings** is offering $5 off any $19 Cocktail Class with coupon code "capricon" at [https://www.tammystastings.com/](https://www.tammystastings.com/ "https://www.tammystastings.com/").
-
+**Tammy's Tastings** is offering $5 off any $19 Cocktail Class with coupon code "capricon" at [https://www.tammystastings.com/](https://www.tammystastings.com/ "https://www.tammystastings.com/").  
+  
 **DOWNLOAD HERE!**
 
 **Richard Garfinkle:** Chapter One of **_Eros Takes a Bow_** ([PDF](/assets/images/eros-takes-a-bow-ch1.pdf))
