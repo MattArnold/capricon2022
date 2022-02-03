@@ -7,6 +7,8 @@ public: false
 ---
 # Erie
 
+**(STREAM IS CURRENTLY OFFLINE, BUT WE'RE WORKING ON IT!)**
+
 Welcome to the Erie Room! Here we will livestream from the hotel.
 
 <iframe
