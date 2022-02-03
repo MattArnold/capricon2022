@@ -21,4 +21,4 @@ Download **Patrick O'Connor**'s [Complete Strangers: A Book of the HaChii Convoc
 
 **DOWNLOAD HERE!**
 
-(nothing for this section yet)
+**Richard Garfinkle:** Chapter One of **_Eros Takes a Bow_** ([PDF](/assets/images/eros-takes-a-bow-ch1.pdf))
