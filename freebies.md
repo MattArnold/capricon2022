@@ -29,3 +29,5 @@ Download **Patrick O'Connor**'s [Complete Strangers: A Book of the HaChii Convoc
 **_The Other Side of Fear_** ([EPUB](/assets/images/the-other-side-of-fear-generic.epub), [MOBI](/assets/images/the-other-side-of-fear-kindle.mobi), [PDF](/assets/images/the-other-side-of-fear-print.pdf))  
 **_What's Bred in the Bone_** ([EPUB](/assets/images/whats-bred-in-the-bone-generic.epub), [MOBI](/assets/images/whats-bred-in-the-bone-kindle.mobi), [PDF](/assets/images/whats-bred-in-the-bone-print.pdf))  
 **_A Bone to Pick_** ([EPUB](/assets/images/a-bone-to-pick-chapter-one-generic.epub), [MOBI](/assets/images/a-bone-to-pick-chapter-one-kindle.mobi), [PDF]())
+
+Authors, download this [free book promo guide](/assets/images/ideal-timeline-for-promoting-your-book-beverly-bambury-v1-1.pdf) from Beverly Bambury Publicity, "The Ideal Timeline for Promoting Your Book"
