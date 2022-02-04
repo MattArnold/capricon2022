@@ -15,7 +15,7 @@ Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so ar
 
 3:00 PM   [Stitch'n'Bitch](https://us02web.zoom.us/j/86795902896?pwd=SWMyVGVNK2FPRlk3aWhjdkRTNTdFdz09)
 
-5:00 PM	[Sketchbook Tour: Alessandra Kelley](https://us02web.zoom.us/j/89440809735?pwd=WjI4ZXI5dlMzTUxxdlhHeHlBVVdCUT09)
+5:00 PM	[Sketchbook Tour: Alessandra Kelley](https://us02web.zoom.us/j/85836064386?pwd=cTRzS2xLNndsVWdWdnhHYVBBWXRodz09)
 
 7:00 PM	[Plotting Backwards](https://us02web.zoom.us/j/84715132871?pwd=K2JObWRSQnp5bVIwTUkveHUwWi83QT09)
 
