@@ -26,6 +26,6 @@ Download **Patrick O'Connor**'s [Complete Strangers: A Book of the HaChii Convoc
 **Sue Burke: _Summer Home_** ([PDF](/assets/images/summer-home-by-sue-burke.pdf))
 
 **Jan Gephardt** is offering first chapters of each of her books:  
-**_The Other Side of Fear_** ([EPUB](/assets/images/the-other-side-of-fear-generic.epub), [MOBI](/assets/images/the-other-side-of-fear-kindle.mobi), PDF)  
-**_What's Bred in the Bone_** ([EPUB](/assets/images/whats-bred-in-the-bone-generic.epub), MOBI, PDF)  
-**_A Bone to Pick_** ([EPUB](/assets/images/a-bone-to-pick-chapter-one-generic.epub), MOBI, PDF)
+**_The Other Side of Fear_** ([EPUB](/assets/images/the-other-side-of-fear-generic.epub), [MOBI](/assets/images/the-other-side-of-fear-kindle.mobi), [PDF](/assets/images/the-other-side-of-fear-print.pdf))  
+**_What's Bred in the Bone_** ([EPUB](/assets/images/whats-bred-in-the-bone-generic.epub), [MOBI](/assets/images/whats-bred-in-the-bone-kindle.mobi), [PDF](/assets/images/whats-bred-in-the-bone-print.pdf))  
+**_A Bone to Pick_** ([EPUB](/assets/images/a-bone-to-pick-chapter-one-generic.epub), [MOBI](/assets/images/a-bone-to-pick-chapter-one-kindle.mobi), [PDF]())
