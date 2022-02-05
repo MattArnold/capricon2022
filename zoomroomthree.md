@@ -37,7 +37,7 @@ Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so ar
 
 4:00 PM [Preview Screening: Uncanny Encounters, LIVE!](https://us02web.zoom.us/j/88666699428?pwd=Y0FzQ09ldTlhb0JoYTV2N1BFNDA2UT09) (90 mins)
 
-7:00 PM Sketchbook Tour: Alessandra Kelly
+7:00 PM [Sketchbook Tour: Alessandra Kelly]()
 
 8:00 PM [Speculative Poetry Open-Mic](https://us02web.zoom.us/j/86412112879?pwd=a2tuT1R5b2hYQ1Z1QWp5S2Z6UGViUT09)
 
