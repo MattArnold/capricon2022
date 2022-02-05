@@ -9,18 +9,6 @@ public: false
 
 Welcome to Zoom Room 3! Items in this room are (usually) more interactive, so are held in a Zoom meeting that you can join directly. To join, just click on the session title link.
 
-### Friday
-
-2:00 PM	[Sketchbook Tour: Wendy Van Camp](https://us02web.zoom.us/j/86093670126?pwd=cFRORjB0MWR0S1ZWYTJTc0VGbklaQT09)
-
-3:00 PM   [Stitch'n'Bitch](https://us02web.zoom.us/j/86795902896?pwd=SWMyVGVNK2FPRlk3aWhjdkRTNTdFdz09)
-
-5:00 PM	[Sketchbook Tour: Alessandra Kelley](https://us02web.zoom.us/j/85836064386?pwd=cTRzS2xLNndsVWdWdnhHYVBBWXRodz09)
-
-7:00 PM	[Plotting Backwards](https://us02web.zoom.us/j/84715132871?pwd=K2JObWRSQnp5bVIwTUkveHUwWi83QT09)
-
-8:00 PM	[Brandon O'Brien's Magical Literary Open Mic Night! ](https://us02web.zoom.us/j/82520975244?pwd=eEhQSnMzaDRPRDduY3BWMkczbHp5UT09)(2 hrs)
-
 ### Saturday
 
 10:00 AM [Folklore 101](https://us02web.zoom.us/j/86092072849?pwd=Zm1CeU5yRyt6dTErZmNXUGpSVVcvdz09)
