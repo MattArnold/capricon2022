@@ -19,6 +19,6 @@ If you planned your schedule earlier and want to see what's changed, you can vie
 
 ### Where are the Parties?!
 
-The link to the Party Zoom will change every day. Check the #parties-hallway channel on Discord or check back here for the new link when it is posted. The Friday link is:
+The link to the Party Zoom will change every day. Check the #parties-hallway channel on Discord or check back here for the new link when it is posted. The Friday link is below and it starts at 9 pm CST.
 
 [https://us02web.zoom.us/j/82220941418?pwd=RzFkdVMxTDBYTEFtNU42NFREak1ZZz09](https://us02web.zoom.us/j/82220941418?pwd=RzFkdVMxTDBYTEFtNU42NFREak1ZZz09 "https://us02web.zoom.us/j/82220941418?pwd=RzFkdVMxTDBYTEFtNU42NFREak1ZZz09")
